@@ -1,0 +1,7 @@
+torch
+torchaudio
+transformers>=4.48.0
+accelerate
+bitsandbytes
+librosa
+einops
